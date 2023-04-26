@@ -2,7 +2,7 @@
       <img src="https://user-images.githubusercontent.com/59374587/92790175-ecf48500-f381-11ea-8311-6d6e8f10cf8f.png" width="130px" alt="https://stories.freepik.com/work Illustration by Freepik Stories"/>
    </p>
 
-   <h1 align="center">ToDo</h1>
+   <h1 align="center">Taskmanager</h1>
 
    <h2 align="center">Topics 📋</h2>
 
